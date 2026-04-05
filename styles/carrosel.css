@@ -56,6 +56,11 @@
     font-size: 14px;
 }
 
+.descricao__imagem {
+    width: 150px;
+    height: auto;
+}
+
 .botoes__item {
     margin: 0 0.5em;
 }
@@ -66,4 +71,8 @@
     color: var(--branco);
     font-weight: 700;
     text-decoration: none;
+}
+
+.img__estrelinhas {
+    margin-bottom: 0.5em;
 }
